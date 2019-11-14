@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Balbuena Nogues Georva Ivette
+
 [System.Serializable]
 
 public class Armas
